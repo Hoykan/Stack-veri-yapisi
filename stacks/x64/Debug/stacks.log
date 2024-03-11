@@ -1,0 +1,3 @@
+﻿  stack.cpp
+C:\Users\hoyka\source\repos\stacks\stack.cpp(76,1): warning C4715: 'stack::isEmpty': tüm denetim yolları değer döndürmez
+  stacks.vcxproj -> C:\Users\hoyka\source\repos\stacks\x64\Debug\stacks.exe
